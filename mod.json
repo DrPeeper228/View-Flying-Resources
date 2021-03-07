@@ -1,0 +1,10 @@
+{
+  "name": "View Flying Resources",
+  "displayName": "View Flying Resources",
+  "author": "[blue]Dr.Peeper",
+  "description": "View Flying Resources",
+  "version": "1.0",
+  "hidden": true,
+  "minGameVersion": "125",
+  "dependencies": []
+}
